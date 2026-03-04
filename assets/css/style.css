@@ -14,3 +14,8 @@ ul.publications li {
   width: 20px;
   text-align: center;
 }
+
+.frame {
+    width: 4.75rem;
+    transition: none;
+}
