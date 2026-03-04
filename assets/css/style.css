@@ -19,3 +19,20 @@ ul.publications li {
     width: 4.75rem;
     transition: none;
 }
+.inner {
+    spacing: 1.125rem;
+    width: 69rem;
+    border-radius: var(--border-radius-tl) var(--border-radius-tr) var(--border-radius-br) var(--border-radius-bl);
+    max-width: 100%;
+    position: relative;
+    width: var(--width);
+    z-index: 1;
+    padding: var(--padding-vertical) var(--padding-horizontal);
+    align-items: center;
+}
+.wrapper {
+    vertical-align: top;
+    position: relative;
+    max-width: 100%;
+    border-radius: var(--border-radius-tl) var(--border-radius-tr) var(--border-radius-br) var(--border-radius-bl);
+}
