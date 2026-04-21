@@ -14,3 +14,9 @@ ul.publications li {
   width: 20px;
   text-align: center;
 }
+
+.ritz {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
